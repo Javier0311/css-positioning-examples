@@ -117,6 +117,10 @@ section{
     border: 2px solid darkorange;
     background-color: beige;
 }
+#top{
+    position: absolute;
+    vertical-align: top;
+}
 
 main nav{
     width: 200px;
